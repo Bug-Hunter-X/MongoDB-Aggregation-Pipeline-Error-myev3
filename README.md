@@ -1,0 +1,2 @@
+# MongoDB Aggregation Pipeline Bug
+This repository demonstrates a common error in MongoDB aggregation pipelines. The provided code snippet attempts to find the top 10 most frequent values in a specific field.  However, it contains a subtle error in the aggregation pipeline stages leading to inaccurate results. The solution file shows the correct approach.
